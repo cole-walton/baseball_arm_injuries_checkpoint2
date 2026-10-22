@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.25
+matplotlib>=3.7
+seaborn>=0.12
+requests>=2.31
+notebook>=7.0
+nbconvert>=7.0
